@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url(./Components/fonts/font-face.css);
+
+
+body{
+    font-family: Vazir;
+    background: cyan;
+}
